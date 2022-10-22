@@ -97,7 +97,14 @@ html {
     filter: drop-shadow(0px 20px 40px rgba(0, 0, 0, 0.25));
   }
 
-
+  .product-img {
+    position: absolute;
+    height: 222px;
+    left: 737px;
+    right: 479px;
+    top: 1157px;
+    filter: drop-shadow(0px 20px 40px rgba(0, 0, 0, 0.25));
+  }
 
 
 
