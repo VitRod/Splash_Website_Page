@@ -58,7 +58,23 @@ html {
     top: 555px;
   }
 
-
+  .app-store-btn img {
+    width: 138.44px;
+    height: 46.28px;
+  }
+  
+  .google-play-btn {
+    position: absolute;
+    width: 156.19px;
+    height: 46.28px;
+    left: 381.81px;
+    top: 555px;
+  }
+  
+  .google-play-btn img {
+    width: 156.19px;
+    height: 46.28px;
+  }
 
 
 
