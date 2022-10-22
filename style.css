@@ -12,7 +12,12 @@ html {
     color: #54575A;
   }
 
-
+  .wrapper {
+    position: relative;
+    width: 1440px;
+    margin: auto;
+    height: 1378px;
+  }
 
 
 
