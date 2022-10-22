@@ -38,7 +38,17 @@ html {
     line-height: 67px; /* or 105% */
   }
 
-
+  .text {
+    position: absolute;
+    width: 394px;
+    height: 96px;
+    left: 221px;
+    top: 403px;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 32px;
+    /* or 160% */
+  }
 
 
 
