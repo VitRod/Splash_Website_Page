@@ -25,3 +25,9 @@ function changeBackground(number) {
       default:
         break;
     }
+
+
+    if (newBackground === lastBackground) {
+        body.className = '';
+      }
+    }
