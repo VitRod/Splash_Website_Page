@@ -50,7 +50,13 @@ html {
     /* or 160% */
   }
 
-
+  .app-store-btn {
+    position: absolute;
+    width: 138.44px;
+    height: 46.28px;
+    left: 221px;
+    top: 555px;
+  }
 
 
 
