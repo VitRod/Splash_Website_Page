@@ -115,7 +115,14 @@ html {
     filter: drop-shadow(0px 20px 40px rgba(0, 0, 0, 0.25));
   }
 
-
+  .cart-img {
+    position: absolute;
+    height: 222px;
+    left: 221px;
+    right: 995px;
+    top: 1157px;
+    filter: drop-shadow(0px 20px 40px rgba(0, 0, 0, 0.25));
+  }
 
 
 
