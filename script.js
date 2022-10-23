@@ -39,8 +39,6 @@ function changeBackground(number) {
 
     
 
-    
-
 
 
 
