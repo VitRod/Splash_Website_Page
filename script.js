@@ -40,5 +40,3 @@ function changeBackground(number) {
     
 
 
-
-
